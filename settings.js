@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94765790381'] // owner number
+global.vcardowner = ['+94714800653'] // owner number
 global.ownername = "😎LAKINDU SASANGA❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -48,7 +48,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['LAKINDU SASANGA']
-global.ownertag = '+94765790381' //your tag number
+global.ownertag = '+94714800653' //your tag number
 global.botname = 'LAKIA BOT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "LAKIYA BOT" // sticker author
